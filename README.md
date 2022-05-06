@@ -105,4 +105,4 @@ Dropbox предлагает неограниченнный объем хран�
 
 
 ## 3. Логическая схема БД
-![схема БД](https://github.com/4Marvin2/highload_cloud/blob/main/DB_diagram.svg?raw=true)
+![схема БД](https://github.com/4Marvin2/highload_cloud/blob/main/DB_diagram.svg)
